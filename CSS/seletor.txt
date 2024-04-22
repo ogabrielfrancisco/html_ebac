@@ -1,0 +1,2 @@
+Selecionar elementos através de ID: Usa o #
+Selecionar elementos através de CLASS: Usa o . no inicio
